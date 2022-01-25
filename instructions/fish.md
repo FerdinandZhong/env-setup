@@ -27,7 +27,7 @@ Fish allows users to serach shell history while typing the command by pressing t
 Fish will also give the suggestions upon typing the command.
 
 <figure>
-    <img src="./statics/fish_suggestions.gif" width="800" />
+    <img src="./statics/fish_suggestion.gif" width="800" />
 </figure>
 
 #### Tab completion
