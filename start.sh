@@ -1,6 +1,6 @@
 #!/bin/bash
 
-for cmd in base.sh py.sh fish.sh
+for cmd in base.sh mamba.sh fish.sh
 do
     bash $cmd
 done
